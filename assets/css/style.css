@@ -15,7 +15,7 @@ body {
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color: 	#000080;
 	border-bottom: none;
 	color: #ffffff;
 	height: 100%;
@@ -32,8 +32,8 @@ header	{
 
 h2,
 h3	{
-	color: #4aaaa5;
-	border-bottom:	3px solid #dddddd;
+	color: #0000cd;
+	border-bottom:	3px solid 	#000080;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 1px;
 	padding-bottom: 3px;
@@ -90,7 +90,7 @@ a:hover {
 }
 
 section	{
-	background-color: #ffffff;
+	background-color: #e0ffff;
 	float: left;
 	color: #777777;
 	border: 2px solid #dddddd;
@@ -136,9 +136,9 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
+	background-image: url("../images/bg01.png");
 	height: 600px;
-	width: 100%;
+	width: 125%;
 	border-bottom: 5px solid #4aaaa5;
 }
 
