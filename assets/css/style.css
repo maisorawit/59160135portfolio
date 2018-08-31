@@ -5,7 +5,7 @@
 
 /* Some default document settings. */
 body {
-	color: #777777;
+	color: #f1f1f1;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	line-height: 30px;
 	text-align: left;
@@ -32,8 +32,8 @@ header	{
 
 h2,
 h3	{
-	color: #0000cd;
-	border-bottom:	3px solid 	#000080;
+	color: #fffff;
+	border-bottom:	3px solid 	#f1f1f1;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-top: 1px;
 	padding-bottom: 3px;
@@ -90,9 +90,9 @@ a:hover {
 }
 
 section	{
-	background-color: #e0ffff;
+	background-color: #01010147;
 	float: left;
-	color: #777777;
+	color: #f1f1f1;
 	border: 2px solid #dddddd;
 }
 
